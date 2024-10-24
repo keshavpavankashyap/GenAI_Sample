@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1LeAnp0QU1Zr4BeVP0rYmY7NImXp612tl
 """
 
-pip install streamlit transformers pdfplumber python-docx
+
 
 import streamlit as st
 from transformers import pipeline
