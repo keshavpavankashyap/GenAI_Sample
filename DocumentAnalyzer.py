@@ -44,7 +44,7 @@ def analyze_document(document_text, api_key):
     return message_content
 
 # Streamlit app layout
-st.title("Document Analyzer with OpenAI")
+st.title("Document Analyzer with OpenAI Designed by Keshav")
 
 # Input field for OpenAI API Key
 api_key = st.text_input("Enter your OpenAI API Key:", type="password")
