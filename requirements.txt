@@ -6,4 +6,4 @@ streamlit
 accelerate
 pdfplumber==0.7.6
 python-docx==0.8.11
-
+pypdf2
