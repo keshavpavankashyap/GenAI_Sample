@@ -50,7 +50,7 @@ def generate_image_from_text(prompt):
         st.error(f"Error generating image: {str(e)}")
 
 # Streamlit UI layout
-st.title("Text-to-Image Generator using OpenAI's DALL-E 3")
+st.title("Text-to-Image Generator using OpenAI's DALL-E 3 designed by Keshav")
 
 # Input box for text prompt
 prompt = st.text_input("Enter a text prompt to generate an image:")
